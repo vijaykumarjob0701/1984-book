@@ -1,0 +1,5 @@
+# Never commit the novel or extracted full text
+*.pdf
+extracted/
+/tmp/
+.DS_Store
