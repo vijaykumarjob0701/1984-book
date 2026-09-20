@@ -1,6 +1,6 @@
 # Glossary
 
-Hard words and Party terms from the completed pages (PDF 1–170: all of Part One and Part Two through Chapter 8, plus the opening of Chapter 9). Meanings are plain-English teaching notes, not a substitute for a dictionary.
+Hard words and Party terms from the completed pages (PDF 1–206: all of Part One and all of Part Two). Meanings are plain-English teaching notes, not a substitute for a dictionary.
 
 Page numbers point to the first study-guide page that treats the word in this edition.
 
@@ -41,6 +41,13 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | doubleplus | Newspeak intensifier: extremely | 155 |
 | the book | Goldstein's forbidden book, promised as Brotherhood induction | 162 |
 | oligarchical collectivism | Goldstein's name for the system the Inner Party actually runs | 169 |
+| Floating Fortresses | huge Oceanic sea-forts that guard shipping lanes | 171 |
+| Neo-Bolshevism | Eurasia's official philosophy; the book says it matches Ingsoc | 181 |
+| Death-Worship | usual translation of Eastasia's creed; also "Obliteration of the Self" | 181 |
+| crimestop | Newspeak: stopping a thought before it becomes dangerous; "protective stupidity" | 195 |
+| blackwhite | Newspeak: saying — and believing — that black is white when required | 195 |
+| reality control | Oldspeak name for doublethink as applied to memory and the past | 197 |
+| goodthinker | Newspeak for a person naturally orthodox (see also goodthinkful) | 194 |
 
 ## Other difficult words
 
@@ -520,3 +527,33 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | valet | a personal manservant | 156 |
 | vestibule | the entrance hall | 136 |
 | voluptuous | almost luxurious (here, of aching joints) | 168 |
+| adulation | wild, worshipping praise | 176 |
+| assimilate | absorb another people into your own system | 180 |
+| authoritarian | demanding total obedience from above | 188 |
+| calamity | a disaster that keeps coming | 198 |
+| contortionist | an acrobat who bends the body into impossible shapes | 195 |
+| dislocate | put out of joint; break the usual sense of | 198 |
+| empirical | based on testing and evidence, not on official doctrine | 173 |
+| encircling | surrounding on all sides | 179 |
+| execrate | curse and treat as morally disgusting | 181 |
+| expropriated | stripped of property by force of law | 190 |
+| fecundity | having many children; a large population | 171 |
+| hierarchical | arranged in ranks, with a few on top | 174 |
+| indefatigably | without ever tiring | 178 |
+| infallible | incapable of being wrong | 191 |
+| inquisitor | someone whose job is to force out hidden thoughts | 178 |
+| interstellar | between the stars; empty space | 182 |
+| meritorious | treated as praiseworthy | 171 |
+| omnipotent | all-powerful | 195 |
+| ossified | grew stiff and unable to change | 198 |
+| paraphernalia | all the extra machinery of control | 200 |
+| perpetual | going on without a break | 183 |
+| quadrilateral | a four-cornered zone on the map | 172 |
+| realizable | actually possible to bring about | 188 |
+| solar plexus | the nerve centre just below the ribs | 205 |
+| spurious | fake; not what it pretends to be | 177 |
+| stupefied | made dull and unable to think | 174 |
+| surveillance | constant watching | 189 |
+| tenets | the main teachings of a belief-system | 181 |
+| totalitarian | a system that claims the whole of life | 188 |
+| vilifies | speaks of with hatred and contempt | 199 |

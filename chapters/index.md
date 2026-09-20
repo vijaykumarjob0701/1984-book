@@ -21,7 +21,8 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | Part Two, Chapter 6 | 144–146 | [page-144](../pages/page-144.md) – [page-146](../pages/page-146.md) | Done |
 | Part Two, Chapter 7 | 147–153 | [page-147](../pages/page-147.md) – [page-153](../pages/page-153.md) | Done |
 | Part Two, Chapter 8 | 154–164 | [page-154](../pages/page-154.md) – [page-164](../pages/page-164.md) | Done |
-| Part Two, Chapter 9 | 165–206 | [page-165](../pages/page-165.md) – [page-170](../pages/page-170.md) (through 170; 171–206 remaining) | In progress |
+| Part Two, Chapter 9 | 165–200 | [page-165](../pages/page-165.md) – [page-200](../pages/page-200.md) | Done |
+| Part Two, Chapter 10 | 201–206 | [page-201](../pages/page-201.md) – [page-206](../pages/page-206.md) | Done |
 | Part Three, Chapter 1 | 207–219 | page-207 – page-219 | Not started |
 | Part Three, Chapter 2 | 220–237 | page-220 – page-237 | Not started |
 | Part Three, Chapter 3 | 238–249 | page-238 – page-249 | Not started |
@@ -61,7 +62,7 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | 117–125 | Street meetings by instalments; Pornosec; Katharine; "We are the dead" |
 | 126–135 | The rented room; real coffee; make-up; the rat; the paperweight |
 
-## Part Two, Chapters 5–9 (through page 170) at a glance
+## Part Two, Chapters 5–10 at a glance
 
 | PDF pages | What happens (spoiler-light) |
 | ---: | --- |
@@ -70,6 +71,11 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | 147–153 | Mother-dream; the chocolate; private loyalty; "they can't get inside you" |
 | 154–164 | O'Brien's flat; wine; the Brotherhood oath; Goldstein's book promised |
 | 165–170 | Hate Week enemy-switch; the briefcase; Winston opens Goldstein's book |
+| 171–183 | Goldstein, "War is Peace": surplus, hierarchy, fake war, WAR IS PEACE |
+| 184–200 | Julia arrives; "Ignorance is Strength" read aloud; *how* not *why* |
+| 201–206 | Chapter 10 (unnumbered after the break): the washerwoman; the iron voice; Charrington |
+
+This edition prints no "Chapter 10" heading after the asterisks on page 200. The guide treats 201–206 as Chapter 10, matching the novel's usual ten-chapter Part Two.
 
 ## Part One, Chapter 1 at a glance
 

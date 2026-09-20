@@ -23,11 +23,12 @@ Canonical page numbers follow the 284-page source PDF used while writing this gu
 | Part Two, Chapter 6 | 144–146 | Done |
 | Part Two, Chapter 7 | 147–153 | Done |
 | Part Two, Chapter 8 | 154–164 | Done |
-| Part Two, Chapter 9 | 165–206 | In progress (165–170 done) |
+| Part Two, Chapter 9 | 165–200 | Done |
+| Part Two, Chapter 10 | 201–206 | Done |
 | Part Three + Appendix | 207–284 | Remaining |
 
-**Completed through:** PDF pages **1–170** (front matter through **Part Two, Chapter 9**, first six pages).  
-**This pass:** PDF **136–170** (Part Two, Chapters 5–8 complete, Chapter 9 through page 170).
+**Completed through:** PDF pages **1–206** (front matter through the **end of Part Two**).  
+**This pass:** PDF **171–206** (remainder of Chapter 9 and Chapter 10; Part Two now complete).
 
 ## Done
 
@@ -48,21 +49,22 @@ Canonical page numbers follow the 284-page source PDF used while writing this gu
 - [x] 144–146 Part Two, Chapter 6
 - [x] 147–153 Part Two, Chapter 7
 - [x] 154–164 Part Two, Chapter 8
-- [x] 165–170 Part Two, Chapter 9 (opening; Goldstein's book begun)
+- [x] 165–200 Part Two, Chapter 9 (Goldstein's book; ends at the section break)
+- [x] 201–206 Part Two, Chapter 10 (arrest; end of Part Two)
 
 ## Next to continue
 
 Start here on the next pass:
 
-1. **PDF 171** — Part Two, Chapter 9 (Goldstein's book continues)
-2. Then 171–206 remainder of Chapter 9
-3. 207+ Part Three
+1. **PDF 207** — Part Three, Chapter 1
+2. Then 220–237 Chapter 2, and the rest of Part Three
+3. 272+ Appendix
 
 See [`chapters/index.md`](chapters/index.md) for the full map.
 
 ## Quality checks for completed pages
 
-- Pages **1–170** each have PDF page, location, summary, vocabulary, and phrases.
+- Pages **1–206** each have PDF page, location, summary, vocabulary, and phrases.
 - Summaries are original paraphrase, tied to that page only.
 - Quoted phrases are short (fair-use teaching length), not long passages.
 - The novel PDF and extracted full text are **not** in this repository.
