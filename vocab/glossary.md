@@ -1,6 +1,6 @@
 # Glossary
 
-Hard words and Party terms from the completed pages (PDF 1–240: all of Part One and Part Two, plus Part Three through the opening of Chapter 3). Meanings are plain-English teaching notes, not a substitute for a dictionary.
+Hard words and Party terms from the completed pages (PDF 1–284: the whole source edition, including the Appendix). Meanings are plain-English teaching notes, not a substitute for a dictionary.
 
 Page numbers point to the first study-guide page that treats the word in this edition.
 
@@ -49,6 +49,18 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | reality control | Oldspeak name for doublethink as applied to memory and the past | 197 |
 | goodthinker | Newspeak for a person naturally orthodox (see also goodthinkful) | 194 |
 | Room 101 | the worst room in the Ministry of Love; prisoners fear the name before they know why | 209 |
+| solipsism | the idea that only your own mind is real; O'Brien calls the Party version "collective solipsism" | 242 |
+| A vocabulary | Newspeak everyday words (eat, walk, dog) with almost no extra meanings | 273 |
+| B vocabulary | Newspeak political compounds built to steer thought (goodthink, crimethink) | 273 |
+| C vocabulary | Newspeak scientific and technical lists, with no general word for "Science" | 273 |
+| bellyfeel | Newspeak: blind, gut-level enthusiasm for Party doctrine | 277 |
+| oldthink | Newspeak blanket for pre-revolutionary ideas (reason, objectivity, "wickedness") | 277 |
+| goodthink | Newspeak noun-verb: orthodox thought; to think in the official way | 276 |
+| sexcrime | Newspeak: any sexual act outside official GOODSEX | 278 |
+| goodsex | Newspeak: marital sex for children only, without female pleasure | 278 |
+| joycamp | Newspeak euphemism for a forced-labour camp | 278 |
+| prolefeed | Newspeak: cheap entertainment and fake news issued to the masses | 278 |
+| Recdep / Ficdep / Teledep | Newspeak short names for Records, Fiction, and Teleprogrammes in Minitrue | 279 |
 
 ## Other difficult words
 
@@ -578,3 +590,53 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | seditious | meant to stir rebellion | 222 |
 | servile | anxiously eager to please the watchers | 213 |
 | timorously | timidly; fearfully | 214 |
+| athleticism | trained agility (here, of the mind) | 253 |
+| blasphemy | a crude insult against the official "god" | 281 |
+| cauterized | sealed by burning, so the nerve is dead | 264 |
+| colossus | a giant who stands over the world | 270 |
+| curvature | the bend of the spine | 247 |
+| cyst | a sealed lump inside the body | 255 |
+| diminution | a making-smaller | 274 |
+| disquieting | worrying | 262 |
+| euphony | pleasant, easy sound | 275 |
+| euphemisms | soft names for harsh things | 278 |
+| exactitude | being precise | 280 |
+| forlorn | abandoned and sad | 247 |
+| hallucination | seeing something that is not there | 253 |
+| hedonistic | aiming at pleasure as the highest good | 243 |
+| ideological | serving a political belief-system | 272 |
+| implicating | dragging others into the confession | 270 |
+| inalienable | that cannot lawfully be taken away | 283 |
+| inarticulate | unable to put the feeling into arguments | 245 |
+| inflicting | causing (pain) on purpose | 243 |
+| inimical | hostile; working against | 281 |
+| inscrutability | a face that gives nothing away | 255 |
+| interchangeability | being able to swap roles | 274 |
+| interpose | put someone or something in between | 261 |
+| intoxication | a drunk, thrilling feeling | 244 |
+| inviolate | untouched; not broken into | 255 |
+| malleable | able to be reshaped | 245 |
+| malignant | a deadly disease | 247 |
+| muzzle | an animal's snout | 260 |
+| nostalgia | homesick longing for a familiar comfort | 267 |
+| orthodox | already in line with Party belief | 282 |
+| panegyric | a speech of over-the-top praise | 283 |
+| penitent | sorry, and ready to be "saved" | 244 |
+| predestined | bound to happen anyway | 253 |
+| premonitory | warning in advance | 259 |
+| preterite | the simple past tense | 275 |
+| procreation | having children | 243 |
+| protruded | stuck forward | 247 |
+| purged | cleaned out | 273 |
+| rigidity | stiffness, as of a dead body | 265 |
+| self-abasement | making yourself feel worthless | 243 |
+| sinecure | a paid job with almost no real work | 263 |
+| staccato | short and clipped | 273 |
+| superseded | fully replaced | 272 |
+| torpid | sluggish; almost unable to move or think | 250 |
+| treachery | betrayal of people close to you | 243 |
+| unendurable | impossible to bear or even think about | 259 |
+| unintelligible | impossible to understand | 282 |
+| utilitarian | useful and practical, not literary | 283 |
+| varicose | swollen, damaged veins | 247 |
+| vitality | living energy that keeps a thing going | 245 |

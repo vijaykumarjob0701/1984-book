@@ -27,11 +27,17 @@ Canonical page numbers follow the 284-page source PDF used while writing this gu
 | Part Two, Chapter 10 | 201–206 | Done |
 | Part Three, Chapter 1 | 207–219 | Done |
 | Part Three, Chapter 2 | 220–237 | Done |
-| Part Three, Chapter 3 | 238–249 | In progress (238–240 done) |
-| Part Three, Chapters 4–6 + Appendix | 250–284 | Remaining |
+| Part Three, Chapter 3 | 238–249 | Done |
+| Part Three, Chapter 4 | 250–257 | Done |
+| Part Three, Chapter 5 | 258–261 | Done |
+| Part Three, Chapter 6 | 262–271 | Done |
+| Appendix: The Principles of Newspeak | 272–283 | Done |
+| End leaf | 284 | Done |
 
-**Completed through:** PDF pages **1–240** (front matter through **Part Three, Chapter 3**, first three pages).  
-**This pass:** PDF **207–240** (Part Three, Chapters 1–2 complete; Chapter 3 begun).
+**Completed through:** PDF pages **1–284** (the whole source file).  
+**This pass:** PDF **241–284** (rest of Part Three, Chapter 3; Chapters 4–6; Appendix; end leaf).
+
+The page-by-page guide is **complete**.
 
 ## Done
 
@@ -56,21 +62,22 @@ Canonical page numbers follow the 284-page source PDF used while writing this gu
 - [x] 201–206 Part Two, Chapter 10 (arrest; end of Part Two)
 - [x] 207–219 Part Three, Chapter 1
 - [x] 220–237 Part Three, Chapter 2
-- [x] 238–240 Part Three, Chapter 3 (opening)
+- [x] 238–249 Part Three, Chapter 3
+- [x] 250–257 Part Three, Chapter 4
+- [x] 258–261 Part Three, Chapter 5
+- [x] 262–271 Part Three, Chapter 6 (end of the novel proper)
+- [x] 272–283 Appendix: The Principles of Newspeak
+- [x] 284 End leaf
 
 ## Next to continue
 
-Start here on the next pass:
-
-1. **PDF 241** — Part Three, Chapter 3 continues
-2. Then 250–257 Chapter 4, 258–261 Chapter 5, 262–271 Chapter 6
-3. 272–283 Appendix; 284 end leaf
+Nothing remaining. All **284** PDF pages have study-guide files.
 
 See [`chapters/index.md`](chapters/index.md) for the full map.
 
 ## Quality checks for completed pages
 
-- Pages **1–240** each have PDF page, location, summary, vocabulary, and phrases.
+- Pages **1–284** each have PDF page, location, summary, vocabulary, and phrases.
 - Summaries are original paraphrase, tied to that page only.
 - Quoted phrases are short (fair-use teaching length), not long passages.
 - The novel PDF and extracted full text are **not** in this repository.

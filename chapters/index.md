@@ -25,12 +25,12 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | Part Two, Chapter 10 | 201–206 | [page-201](../pages/page-201.md) – [page-206](../pages/page-206.md) | Done |
 | Part Three, Chapter 1 | 207–219 | [page-207](../pages/page-207.md) – [page-219](../pages/page-219.md) | Done |
 | Part Three, Chapter 2 | 220–237 | [page-220](../pages/page-220.md) – [page-237](../pages/page-237.md) | Done |
-| Part Three, Chapter 3 | 238–249 | [page-238](../pages/page-238.md) – [page-240](../pages/page-240.md) (through 240; 241–249 remaining) | In progress |
-| Part Three, Chapter 4 | 250–257 | page-250 – page-257 | Not started |
-| Part Three, Chapter 5 | 258–261 | page-258 – page-261 | Not started |
-| Part Three, Chapter 6 | 262–271 | page-262 – page-271 | Not started |
-| Appendix: The Principles of Newspeak | 272–283 | page-272 – page-283 | Not started |
-| End leaf | 284 | page-284 | Not started |
+| Part Three, Chapter 3 | 238–249 | [page-238](../pages/page-238.md) – [page-249](../pages/page-249.md) | Done |
+| Part Three, Chapter 4 | 250–257 | [page-250](../pages/page-250.md) – [page-257](../pages/page-257.md) | Done |
+| Part Three, Chapter 5 | 258–261 | [page-258](../pages/page-258.md) – [page-261](../pages/page-261.md) | Done |
+| Part Three, Chapter 6 | 262–271 | [page-262](../pages/page-262.md) – [page-271](../pages/page-271.md) | Done |
+| Appendix: The Principles of Newspeak | 272–283 | [page-272](../pages/page-272.md) – [page-283](../pages/page-283.md) | Done |
+| End leaf | 284 | [page-284](../pages/page-284.md) | Done |
 
 ## Part One, Chapters 2–4 at a glance
 
@@ -77,13 +77,25 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 
 This edition prints no "Chapter 10" heading after the asterisks on page 200. The guide treats 201–206 as Chapter 10, matching the novel's usual ten-chapter Part Two.
 
-## Part Three, Chapters 1–3 (through page 240) at a glance
+## Part Three, Chapters 1–6 at a glance
 
 | PDF pages | What happens (spoiler-light) |
 | ---: | --- |
 | 207–219 | Ministry of Love cell; Ampleforth; Parsons; Room 101 fear; O'Brien's arrival |
 | 220–237 | Interrogation; the dial; two-plus-two; "THOU ART"; what is in Room 101 |
-| 238–240 | Three stages; O'Brien wrote the book; power as an end |
+| 238–249 | Three stages; power as an end; boot and face; last man in the mirror; Julia unbetrayed |
+| 250–257 | Recovery cell; the three slogans on the slate; crimestop; "You must love Big Brother" |
+| 258–261 | Room 101; rats; "Do it to Julia!" |
+| 262–271 | Chestnut Tree; park meeting; chestnut song; Africa "victory"; he loves Big Brother |
+
+## Appendix and end leaf at a glance
+
+| PDF pages | What happens (spoiler-light) |
+| ---: | --- |
+| 272–275 | Why Newspeak exists; FREE without liberty; A-vocabulary and regular grammar |
+| 276–280 | B-vocabulary compounds; bellyfeel; sexcrime; abbreviations; duckspeak |
+| 281–283 | C-vocabulary; untranslatable heresy; Declaration as crimethink; switch in 2050 |
+| 284 | Blank end leaf |
 
 ## Part One, Chapter 1 at a glance
 
