@@ -19,11 +19,15 @@ Canonical page numbers follow the 284-page source PDF used while writing this gu
 | Part Two, Chapter 2 | 108–116 | Done |
 | Part Two, Chapter 3 | 117–125 | Done |
 | Part Two, Chapter 4 | 126–135 | Done |
-| Part Two, Chapters 5–9 | 136–206 | Remaining |
+| Part Two, Chapter 5 | 136–143 | Done |
+| Part Two, Chapter 6 | 144–146 | Done |
+| Part Two, Chapter 7 | 147–153 | Done |
+| Part Two, Chapter 8 | 154–164 | Done |
+| Part Two, Chapter 9 | 165–206 | In progress (165–170 done) |
 | Part Three + Appendix | 207–284 | Remaining |
 
-**Completed through:** PDF pages **1–135** (front matter through **Part Two, Chapter 4**).  
-**This pass:** PDF **97–135** (Part Two, Chapters 1–4). Minimum for this pass (Chapters 1–3) is included.
+**Completed through:** PDF pages **1–170** (front matter through **Part Two, Chapter 9**, first six pages).  
+**This pass:** PDF **136–170** (Part Two, Chapters 5–8 complete, Chapter 9 through page 170).
 
 ## Done
 
@@ -40,23 +44,25 @@ Canonical page numbers follow the 284-page source PDF used while writing this gu
 - [x] 108–116 Part Two, Chapter 2
 - [x] 117–125 Part Two, Chapter 3
 - [x] 126–135 Part Two, Chapter 4
+- [x] 136–143 Part Two, Chapter 5
+- [x] 144–146 Part Two, Chapter 6
+- [x] 147–153 Part Two, Chapter 7
+- [x] 154–164 Part Two, Chapter 8
+- [x] 165–170 Part Two, Chapter 9 (opening; Goldstein's book begun)
 
 ## Next to continue
 
 Start here on the next pass:
 
-1. **PDF 136** — Part Two, Chapter 5 (Syme vanishes; Hate Week)
-2. Then 144–146 Chapter 6
-3. 147–153 Chapter 7
-4. 154–164 Chapter 8
-5. 165–206 Chapter 9 (Goldstein's book)
-6. 207+ Part Three
+1. **PDF 171** — Part Two, Chapter 9 (Goldstein's book continues)
+2. Then 171–206 remainder of Chapter 9
+3. 207+ Part Three
 
 See [`chapters/index.md`](chapters/index.md) for the full map.
 
 ## Quality checks for completed pages
 
-- Pages **1–135** each have PDF page, location, summary, vocabulary, and phrases.
+- Pages **1–170** each have PDF page, location, summary, vocabulary, and phrases.
 - Summaries are original paraphrase, tied to that page only.
 - Quoted phrases are short (fair-use teaching length), not long passages.
 - The novel PDF and extracted full text are **not** in this repository.

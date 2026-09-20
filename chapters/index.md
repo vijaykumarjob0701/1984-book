@@ -17,11 +17,11 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | Part Two, Chapter 2 | 108–116 | [page-108](../pages/page-108.md) – [page-116](../pages/page-116.md) | Done |
 | Part Two, Chapter 3 | 117–125 | [page-117](../pages/page-117.md) – [page-125](../pages/page-125.md) | Done |
 | Part Two, Chapter 4 | 126–135 | [page-126](../pages/page-126.md) – [page-135](../pages/page-135.md) | Done |
-| Part Two, Chapter 5 | 136–143 | page-136 – page-143 | Not started |
-| Part Two, Chapter 6 | 144–146 | page-144 – page-146 | Not started |
-| Part Two, Chapter 7 | 147–153 | page-147 – page-153 | Not started |
-| Part Two, Chapter 8 | 154–164 | page-154 – page-164 | Not started |
-| Part Two, Chapter 9 | 165–206 | page-165 – page-206 | Not started |
+| Part Two, Chapter 5 | 136–143 | [page-136](../pages/page-136.md) – [page-143](../pages/page-143.md) | Done |
+| Part Two, Chapter 6 | 144–146 | [page-144](../pages/page-144.md) – [page-146](../pages/page-146.md) | Done |
+| Part Two, Chapter 7 | 147–153 | [page-147](../pages/page-147.md) – [page-153](../pages/page-153.md) | Done |
+| Part Two, Chapter 8 | 154–164 | [page-154](../pages/page-154.md) – [page-164](../pages/page-164.md) | Done |
+| Part Two, Chapter 9 | 165–206 | [page-165](../pages/page-165.md) – [page-170](../pages/page-170.md) (through 170; 171–206 remaining) | In progress |
 | Part Three, Chapter 1 | 207–219 | page-207 – page-219 | Not started |
 | Part Three, Chapter 2 | 220–237 | page-220 – page-237 | Not started |
 | Part Three, Chapter 3 | 238–249 | page-238 – page-249 | Not started |
@@ -60,6 +60,16 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | 108–116 | The wood; Julia named; chocolate; thrush; a political act |
 | 117–125 | Street meetings by instalments; Pornosec; Katharine; "We are the dead" |
 | 126–135 | The rented room; real coffee; make-up; the rat; the paperweight |
+
+## Part Two, Chapters 5–9 (through page 170) at a glance
+
+| PDF pages | What happens (spoiler-light) |
+| ---: | --- |
+| 136–143 | Syme is an unperson; Hate Week; the room as sanctuary; Julia on war and the past |
+| 144–146 | O'Brien in the corridor; the dictionary pretext; an Inner Party address |
+| 147–153 | Mother-dream; the chocolate; private loyalty; "they can't get inside you" |
+| 154–164 | O'Brien's flat; wine; the Brotherhood oath; Goldstein's book promised |
+| 165–170 | Hate Week enemy-switch; the briefcase; Winston opens Goldstein's book |
 
 ## Part One, Chapter 1 at a glance
 

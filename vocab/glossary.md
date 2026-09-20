@@ -1,6 +1,6 @@
 # Glossary
 
-Hard words and Party terms from the completed pages (PDF 1–135: all of Part One and Part Two, Chapters 1–4). Meanings are plain-English teaching notes, not a substitute for a dictionary.
+Hard words and Party terms from the completed pages (PDF 1–170: all of Part One and Part Two through Chapter 8, plus the opening of Chapter 9). Meanings are plain-English teaching notes, not a substitute for a dictionary.
 
 Page numbers point to the first study-guide page that treats the word in this edition.
 
@@ -34,6 +34,13 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | ownlife | Newspeak for wanting a private life; individualism | 77 |
 | steamer | prole nickname for a rocket bomb | 79 |
 | goodthinkful | Newspeak: naturally orthodox; unable to think a "bad" thought | 121 |
+| Hate Song | the barking theme-tune composed for Hate Week | 136 |
+| Brotherhood | the rumoured secret anti-Party organisation | 140 |
+| Reclamation Centres | official colonies for children left homeless by the civil war | 150 |
+| crimethink | Newspeak for criminal thought | 155 |
+| doubleplus | Newspeak intensifier: extremely | 155 |
+| the book | Goldstein's forbidden book, promised as Brotherhood induction | 162 |
+| oligarchical collectivism | Goldstein's name for the system the Inner Party actually runs | 169 |
 
 ## Other difficult words
 
@@ -417,3 +424,99 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | virtuosity | brilliant technical skill | 113 |
 | wainscoting | wooden panelling along the lower wall | 132 |
 | wilful | done on purpose, against better sense | 129 |
+| acrid | sharp and stinging (of sweat or smoke) | 137 |
+| amateur | someone who does a subject out of interest, not as a job | 144 |
+| amateurishly | made by hand, not by a proper publisher | 169 |
+| annihilating | aiming to wipe the other side out completely | 170 |
+| apathetic | not interested; not caring | 137 |
+| arbitrary | drawn without a natural reason | 170 |
+| assent | agreement | 159 |
+| atrocity | a shocking act of cruelty | 136 |
+| beseech | beg; plead with | 149 |
+| bloodthirsty | eager for killing | 170 |
+| bunting | rows of flags or coloured cloth for display | 137 |
+| catechism | a set of questions with expected answers | 158 |
+| chivalrous | honourable and restrained in war | 170 |
+| clamorous | loud and demanding | 149 |
+| combatants | the sides that are fighting | 170 |
+| commotion | sudden noisy disorder | 166 |
+| composite | several images combined into one | 163 |
+| concealing | hiding | 145 |
+| crimethink | see Party terms | 155 |
+| debauch | an exhausting binge (here, of work) | 165 |
+| decanter | a glass bottle for pouring wine | 156 |
+| delirium | wild, feverish excitement | 165 |
+| demoralization | breaking people's morale and morals | 158 |
+| deprecating | modest and slightly apologetic | 139 |
+| directories | public lists of names and addresses | 146 |
+| disseminate | spread widely | 158 |
+| disconcerting | unsettling; it throws you off | 143 |
+| effigies | dummy figures of enemies, built to be shown or burned | 136 |
+| embellishing | dressing up or adding to the official story | 136 |
+| enormity | the shocking size of a demand | 143 |
+| equilibrium | a steady balanced state | 169 |
+| exhortations | loud encouraging speeches to the group | 137 |
+| extraction | family origin (here, suspected of being foreign) | 138 |
+| febrile | feverish; restless and overheated | 136 |
+| feral | like a wild animal | 167 |
+| flagrant | obvious and shameless | 143 |
+| fluctuate | move back and forth | 170 |
+| foretaste | a small early sample of what is coming | 146 |
+| foreshortening | a drawing trick that makes a gun look aimed at you | 137 |
+| gelatinous | weak and wobbling, like jelly | 165 |
+| gyroscope | a spinning device that rights itself | 169 |
+| haranguing | ranting at a crowd | 166 |
+| hoarding (billboard) | a big outdoor advertising board | 156 |
+| impending | about to happen | 139 |
+| indignation | public anger at a supposed outrage | 137 |
+| indestructible | impossible to destroy | 161 |
+| ineffectual | unable to change the outcome | 151 |
+| ingenious | cleverly designed | 145 |
+| interlude | a short break in the main event | 166 |
+| inviolate | untouched; still safe and private | 138 |
+| involuntary | not chosen; it happened in the mind by itself | 146 |
+| irreconcilable | impossible to make agree | 169 |
+| irrevocable | seeming impossible to undo | 169 |
+| luminous | full of clear light | 147 |
+| luridly | with harsh, glaring light | 166 |
+| manoeuvrings | careful, tricky arrangements | 139 |
+| momentous | hugely important | 142 |
+| mythology | a set of official stories treated as history | 141 |
+| Neolithic | the late Stone Age | 169 |
+| neurotically | with a compulsive, anxious need | 168 |
+| nobility | a quiet dignity | 150 |
+| oligarchical | ruled by a small closed group | 169 |
+| orator | a public speaker | 166 |
+| pathos | a pitiful tone meant to win sympathy | 148 |
+| perceptible | big enough to notice | 161 |
+| persiflage | light, almost joking talk about terrible things | 160 |
+| pilfering | stealing small amounts again and again | 149 |
+| pinchbeck | cheap metal made to look like gold | 139 |
+| practicable | actually possible to do | 139 |
+| prodigies | astonishing bursts of energy | 166 |
+| rackety | shaky, noisy, and unstable | 147 |
+| regenerate | bring back to life and health | 151 |
+| remonstrances | scolding pleas to stop | 149 |
+| residue | something left behind after swallowing | 143 |
+| riotous | like a riot | 166 |
+| sabotage | secret damage to machines, plans, or people | 158 |
+| sanctuary | a safe hiding-place | 139 |
+| scholarly | like a serious student of the subject | 144 |
+| simian | thin and drawn until the face looks ape-like | 148 |
+| sluttish | sloppy and uncared-for | 168 |
+| sodden | soaked; still wet with a feeling | 147 |
+| spiritless | emptied of will and hope | 148 |
+| stratagem | a clever plan or trick | 160 |
+| suffocation | dying from lack of air | 138 |
+| sulphuric | a burning industrial acid | 158 |
+| superfluous | extra; more than needed | 148 |
+| susceptible | easily influenced or taken in | 140 |
+| syntax | the grammatical shape of a sentence | 167 |
+| tablet | a small flat pill | 162 |
+| tepid | only lukewarm | 168 |
+| translucency | looking as if light could pass through | 165 |
+| unconquerable | impossible to defeat or stop | 139 |
+| upheavals | huge violent changes | 169 |
+| valet | a personal manservant | 156 |
+| vestibule | the entrance hall | 136 |
+| voluptuous | almost luxurious (here, of aching joints) | 168 |
