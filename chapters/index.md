@@ -11,8 +11,8 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | Part One, Chapter 4 | 37–46 | [page-037](../pages/page-037.md) – [page-046](../pages/page-046.md) | Done |
 | Part One, Chapter 5 | 47–59 | [page-047](../pages/page-047.md) – [page-059](../pages/page-059.md) | Done |
 | Part One, Chapter 6 | 60–65 | [page-060](../pages/page-060.md) – [page-065](../pages/page-065.md) | Done |
-| Part One, Chapter 7 | 66–76 | page-066 – page-076 | Not started |
-| Part One, Chapter 8 | 77–96 | page-077 – page-096 | Not started |
+| Part One, Chapter 7 | 66–76 | [page-066](../pages/page-066.md) – [page-076](../pages/page-076.md) | Done |
+| Part One, Chapter 8 | 77–96 | [page-077](../pages/page-077.md) – [page-096](../pages/page-096.md) | Done |
 | Part Two, Chapter 1 | 97–107 | page-097 – page-107 | Not started |
 | Part Two, Chapter 2 | 108–116 | page-108 – page-116 | Not started |
 | Part Two, Chapter 3 | 117–125 | page-117 – page-125 | Not started |
@@ -44,6 +44,12 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | 47–52 | Canteen with Syme; destroying words; duckspeak |
 | 53–59 | Parsons, Hate Week sub, chocolate "rise," facecrime |
 | 60–65 | Diary of a paid encounter; Katharine; desire as thoughtcrime |
+| 66–70 | Hope in the proles; saucepan riot; children's history book |
+| 71–76 | Jones, Aaronson, Rutherford; the photograph; two plus two |
+| 77–82 | Ownlife walk; rocket bomb; Lottery; the old man in the pub |
+| 83–86 | Failed attempt to learn pre-Revolution truth from a prole |
+| 87–92 | Junk-shop, coral paperweight, upstairs room, St Clement's rhyme |
+| 93–96 | The dark-haired girl in the street; Part One ends on the slogans |
 
 ## Part One, Chapter 1 at a glance
 

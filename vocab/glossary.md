@@ -1,6 +1,6 @@
 # Glossary
 
-Hard words and Party terms from the completed pages (PDF 1–65). Meanings are plain-English teaching notes, not a substitute for a dictionary.
+Hard words and Party terms from the completed pages (PDF 1–96, all of Part One). Meanings are plain-English teaching notes, not a substitute for a dictionary.
 
 Page numbers point to the first study-guide page that treats the word in this edition.
 
@@ -31,6 +31,8 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | duckspeak | to "quack" Party phrases — insult or praise, depending on who does it | 52 |
 | facecrime | an expression that reveals unofficial feeling | 59 |
 | Oldspeak | ordinary English, before Newspeak replaces it | 50 |
+| ownlife | Newspeak for wanting a private life; individualism | 77 |
+| steamer | prole nickname for a rocket bomb | 79 |
 
 ## Other difficult words
 
@@ -294,3 +296,71 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | vapid | empty; without real feeling | 50 |
 | venerated | honoured as if sacred | 52 |
 | zeal | burning eagerness | 52 |
+| absorption | being completely taken up by something | 79 |
+| altercation | a sharp, angry argument | 79 |
+| amulets | lucky charms | 80 |
+| anodyne | something that dulls pain | 80 |
+| antique | old and collectable | 88 |
+| axiom | a basic statement taken as a starting truth | 76 |
+| balminess | mild, pleasant warmth | 77 |
+| barricades | makeshift street barriers in a fight | 72 |
+| bondage | being owned or tightly controlled | 67 |
+| camaraderie | friendly fellow-feeling (here, often forced) | 77 |
+| caricaturist | an artist who draws exaggerated, mocking pictures | 72 |
+| cobbled | paved with rounded stones | 77 |
+| cumbersome | heavy and awkward to move | 90 |
+| defection | leaving your side for the enemy | 71 |
+| demolished | completely destroyed | 79 |
+| embezzlement | stealing money you were trusted with | 71 |
+| engraving | a picture printed from a carved metal plate | 90 |
+| exaltation | a rush of lifted, careless joy | 93 |
+| extinction | being wiped out completely | 71 |
+| farthings | old tiny copper coins | 91 |
+| folly | a foolish passion or dangerous act | 80 |
+| fossil | an ancient bone or trace in rock | 73 |
+| frontispiece | a picture at the front of a book | 75 |
+| geological | to do with the earth's rock layers | 74 |
+| grievances | specific complaints | 68 |
+| imposture | a huge organised fraud | 74 |
+| incriminate | make someone look guilty | 71 |
+| incongruous | out of place; not fitting | 92 |
+| indoctrinate | train people to accept a set of beliefs | 68 |
+| inertia | a frozen inability to move | 94 |
+| inferiors | people treated as lower by nature | 67 |
+| knell | the slow heavy ringing of a funeral bell | 96 |
+| lackeys | servants who wait on the powerful | 84 |
+| lassitude | heavy tiredness of body and will | 94 |
+| listlessness | having no energy or will | 69 |
+| literate | able to read and write | 70 |
+| lunatic | a mad person | 75 |
+| mahogany | a dark reddish hardwood | 89 |
+| memorial | meant to remember a person or event | 91 |
+| nostalgia | a longing ache for a lost time | 90 |
+| officiousness | interfering eagerness to report people | 93 |
+| palpable | so clear you can almost touch it | 77 |
+| pillory | a wooden frame for public shame | 69 |
+| posterity | people in the future | 73 |
+| proprietor | the owner of a shop | 87 |
+| pugnaciously | in a ready-to-fight way | 82 |
+| puritanism | a strict, joyless moral code | 68 |
+| racketeers | people who run illegal money schemes | 68 |
+| reconnoitring | carefully checking a place for danger | 92 |
+| relics | leftover pieces of an older world | 71 |
+| rendezvous | a secret agreed meeting | 73 |
+| resurrected | brought back from destruction | 74 |
+| sinecures | jobs that sound important but involve little work | 71 |
+| solitude | being alone | 77 |
+| staggering | amazingly large | 80 |
+| steeple | a church tower for bells | 92 |
+| stratum | a layer of rock from a certain time | 74 |
+| subjection | being kept under someone else's power | 67 |
+| succumbed | given in; fallen to | 95 |
+| tarnished | dulled and stained by age | 88 |
+| thoroughfare | a main road | 80 |
+| transcription | a copy of official wording | 67 |
+| truisms | obvious truths everyone should already know | 76 |
+| unalterable | impossible to change | 75 |
+| unprocurable | impossible to get | 94 |
+| wad | a thick bundle | 73 |
+| wariness | cautious suspicion | 78 |
+| widower | a man whose wife has died | 92 |
