@@ -43,7 +43,7 @@ Front-matter pages (title, biography, license notices) are still given a short f
 
 ## Progress
 
-See [`PROGRESS.md`](PROGRESS.md) for the live checklist. The first shipping goal is **all pages through the end of Part One, Chapter 1** (PDF pages 1–20 in this edition). This guide now covers **the whole of Part One and Part Two** (PDF pages 1–206). Next is PDF page 207 (Part Three, Chapter 1).
+See [`PROGRESS.md`](PROGRESS.md) for the live checklist. The first shipping goal is **all pages through the end of Part One, Chapter 1** (PDF pages 1–20 in this edition). This guide now covers **the whole of Part One and Part Two**, plus **Part Three through Chapter 2** and the opening of **Chapter 3** (PDF pages 1–240). Next is PDF page 241 (Part Three, Chapter 3 continues). The book ends at PDF 284 (including the Appendix).
 
 ## Copyright and licence
 

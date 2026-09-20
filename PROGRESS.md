@@ -25,10 +25,13 @@ Canonical page numbers follow the 284-page source PDF used while writing this gu
 | Part Two, Chapter 8 | 154–164 | Done |
 | Part Two, Chapter 9 | 165–200 | Done |
 | Part Two, Chapter 10 | 201–206 | Done |
-| Part Three + Appendix | 207–284 | Remaining |
+| Part Three, Chapter 1 | 207–219 | Done |
+| Part Three, Chapter 2 | 220–237 | Done |
+| Part Three, Chapter 3 | 238–249 | In progress (238–240 done) |
+| Part Three, Chapters 4–6 + Appendix | 250–284 | Remaining |
 
-**Completed through:** PDF pages **1–206** (front matter through the **end of Part Two**).  
-**This pass:** PDF **171–206** (remainder of Chapter 9 and Chapter 10; Part Two now complete).
+**Completed through:** PDF pages **1–240** (front matter through **Part Three, Chapter 3**, first three pages).  
+**This pass:** PDF **207–240** (Part Three, Chapters 1–2 complete; Chapter 3 begun).
 
 ## Done
 
@@ -51,20 +54,23 @@ Canonical page numbers follow the 284-page source PDF used while writing this gu
 - [x] 154–164 Part Two, Chapter 8
 - [x] 165–200 Part Two, Chapter 9 (Goldstein's book; ends at the section break)
 - [x] 201–206 Part Two, Chapter 10 (arrest; end of Part Two)
+- [x] 207–219 Part Three, Chapter 1
+- [x] 220–237 Part Three, Chapter 2
+- [x] 238–240 Part Three, Chapter 3 (opening)
 
 ## Next to continue
 
 Start here on the next pass:
 
-1. **PDF 207** — Part Three, Chapter 1
-2. Then 220–237 Chapter 2, and the rest of Part Three
-3. 272+ Appendix
+1. **PDF 241** — Part Three, Chapter 3 continues
+2. Then 250–257 Chapter 4, 258–261 Chapter 5, 262–271 Chapter 6
+3. 272–283 Appendix; 284 end leaf
 
 See [`chapters/index.md`](chapters/index.md) for the full map.
 
 ## Quality checks for completed pages
 
-- Pages **1–206** each have PDF page, location, summary, vocabulary, and phrases.
+- Pages **1–240** each have PDF page, location, summary, vocabulary, and phrases.
 - Summaries are original paraphrase, tied to that page only.
 - Quoted phrases are short (fair-use teaching length), not long passages.
 - The novel PDF and extracted full text are **not** in this repository.

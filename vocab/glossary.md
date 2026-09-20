@@ -1,6 +1,6 @@
 # Glossary
 
-Hard words and Party terms from the completed pages (PDF 1–206: all of Part One and all of Part Two). Meanings are plain-English teaching notes, not a substitute for a dictionary.
+Hard words and Party terms from the completed pages (PDF 1–240: all of Part One and Part Two, plus Part Three through the opening of Chapter 3). Meanings are plain-English teaching notes, not a substitute for a dictionary.
 
 Page numbers point to the first study-guide page that treats the word in this edition.
 
@@ -48,6 +48,7 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | blackwhite | Newspeak: saying — and believing — that black is white when required | 195 |
 | reality control | Oldspeak name for doublethink as applied to memory and the past | 197 |
 | goodthinker | Newspeak for a person naturally orthodox (see also goodthinkful) | 194 |
+| Room 101 | the worst room in the Ministry of Love; prisoners fear the name before they know why | 209 |
 
 ## Other difficult words
 
@@ -557,3 +558,23 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | tenets | the main teachings of a belief-system | 181 |
 | totalitarian | a system that claims the whole of life | 188 |
 | vilifies | speaks of with hatred and contempt | 199 |
+| copiously | in a large amount | 209 |
+| deranged | mentally ill (O'Brien's word for loyalty to facts) | 225 |
+| emaciation | extreme thinness from hunger | 215 |
+| exaltation | a lifted, almost religious excitement | 231 |
+| forbearance | a rough kind of tolerance | 208 |
+| formality | a required performance, not a search for facts | 220 |
+| hypodermic | a needle for injecting into the body | 220 |
+| insidious | creeping in without your noticing | 213 |
+| martyrdoms | deaths that turn victims into heroes | 231 |
+| metaphysician | someone who asks what "existence" really means | 227 |
+| pedant | someone who loves useless exact facts | 212 |
+| penitence | sorrow for having been "wrong" | 233 |
+| porcelain | hard white glazed stuff, like a bathroom | 207 |
+| prevaricate | dodge and talk around the truth | 224 |
+| reintegration | being fitted back into the Party mind | 238 |
+| relinquishing | giving power up | 240 |
+| sanctimonious | piously self-righteous | 213 |
+| seditious | meant to stir rebellion | 222 |
+| servile | anxiously eager to please the watchers | 213 |
+| timorously | timidly; fearfully | 214 |
