@@ -13,10 +13,10 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | Part One, Chapter 6 | 60–65 | [page-060](../pages/page-060.md) – [page-065](../pages/page-065.md) | Done |
 | Part One, Chapter 7 | 66–76 | [page-066](../pages/page-066.md) – [page-076](../pages/page-076.md) | Done |
 | Part One, Chapter 8 | 77–96 | [page-077](../pages/page-077.md) – [page-096](../pages/page-096.md) | Done |
-| Part Two, Chapter 1 | 97–107 | page-097 – page-107 | Not started |
-| Part Two, Chapter 2 | 108–116 | page-108 – page-116 | Not started |
-| Part Two, Chapter 3 | 117–125 | page-117 – page-125 | Not started |
-| Part Two, Chapter 4 | 126–135 | page-126 – page-135 | Not started |
+| Part Two, Chapter 1 | 97–107 | [page-097](../pages/page-097.md) – [page-107](../pages/page-107.md) | Done |
+| Part Two, Chapter 2 | 108–116 | [page-108](../pages/page-108.md) – [page-116](../pages/page-116.md) | Done |
+| Part Two, Chapter 3 | 117–125 | [page-117](../pages/page-117.md) – [page-125](../pages/page-125.md) | Done |
+| Part Two, Chapter 4 | 126–135 | [page-126](../pages/page-126.md) – [page-135](../pages/page-135.md) | Done |
 | Part Two, Chapter 5 | 136–143 | page-136 – page-143 | Not started |
 | Part Two, Chapter 6 | 144–146 | page-144 – page-146 | Not started |
 | Part Two, Chapter 7 | 147–153 | page-147 – page-153 | Not started |
@@ -50,6 +50,16 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | 83–86 | Failed attempt to learn pre-Revolution truth from a prole |
 | 87–92 | Junk-shop, coral paperweight, upstairs room, St Clement's rhyme |
 | 93–96 | The dark-haired girl in the street; Part One ends on the slogans |
+
+## Part Two, Chapters 1–4 at a glance
+
+| PDF pages | What happens (spoiler-light) |
+| ---: | --- |
+| 97–102 | Corridor fall; the note; a week of failed canteen meetings |
+| 103–107 | Canteen murmurs; Victory Square; prisoners' convoy; her hand |
+| 108–116 | The wood; Julia named; chocolate; thrush; a political act |
+| 117–125 | Street meetings by instalments; Pornosec; Katharine; "We are the dead" |
+| 126–135 | The rented room; real coffee; make-up; the rat; the paperweight |
 
 ## Part One, Chapter 1 at a glance
 

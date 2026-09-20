@@ -1,6 +1,6 @@
 # Glossary
 
-Hard words and Party terms from the completed pages (PDF 1–96, all of Part One). Meanings are plain-English teaching notes, not a substitute for a dictionary.
+Hard words and Party terms from the completed pages (PDF 1–135: all of Part One and Part Two, Chapters 1–4). Meanings are plain-English teaching notes, not a substitute for a dictionary.
 
 Page numbers point to the first study-guide page that treats the word in this edition.
 
@@ -33,6 +33,7 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | Oldspeak | ordinary English, before Newspeak replaces it | 50 |
 | ownlife | Newspeak for wanting a private life; individualism | 77 |
 | steamer | prole nickname for a rocket bomb | 79 |
+| goodthinkful | Newspeak: naturally orthodox; unable to think a "bad" thought | 121 |
 
 ## Other difficult words
 
@@ -364,3 +365,55 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | wad | a thick bundle | 73 |
 | wariness | cautious suspicion | 78 |
 | widower | a man whose wife has died | 92 |
+| acuteness | sharp understanding | 122 |
+| adept | skilful | 118 |
+| agitation | inner upset that might show | 99 |
+| alighted | landed (a bird) | 113 |
+| annihilated | destroyed completely | 114 |
+| belfry | the tower room where church bells hang | 118 |
+| camouflage | a cover that hides the real activity | 119 |
+| commodity | an ordinary product made to be sold | 119 |
+| compulsion | a forced inner push | 132 |
+| countersign | a password in two halves | 134 |
+| credulity | readiness to believe anything | 122 |
+| dappled | spotted with moving patches of light | 108 |
+| demeanour | the way someone behaves | 117 |
+| discredit | damage someone's official reputation | 100 |
+| emanation | a smell that seems to rise out of the past | 129 |
+| etiolated | pale and weak from lack of sun | 109 |
+| fatuous | silly and empty | 99 |
+| femininity / feminine | looking like a woman, not a unisex comrade | 131 |
+| fragmentary | in broken pieces | 119 |
+| gratuitous | unnecessary; done for no need | 126 |
+| hypocrites | people who pretend to believe what they do not | 122 |
+| incredulity | inability to believe it is real | 110 |
+| incriminating | likely to prove you guilty | 99 |
+| iniquity | deep wickedness | 115 |
+| instalments | small pieces delivered over time | 118 |
+| intermittent | stopping and starting | 118 |
+| knoll | a small round hill | 109 |
+| loitering | hanging about with no clear reason | 101 |
+| lunacy | madness | 128 |
+| malignant | full of spite | 103 |
+| meagre | thin; not much flesh | 131 |
+| niggling | small, fussy, and annoying | 99 |
+| obeisance | a bow of respect | 113 |
+| predestined | already fixed to happen | 128 |
+| pretext | a believable official excuse | 101 |
+| privation | being forced to go without | 122 |
+| rendezvous | an agreed meeting place | 118 |
+| reverence | a quiet, almost religious respect | 113 |
+| rouge | red cheek make-up | 131 |
+| saplings | young thin trees | 109 |
+| sensuality | bodily desire and pleasure | 128 |
+| sham | a fake show | 115 |
+| startling | so strong it shocks you | 131 |
+| summons | an order to appear | 98 |
+| synthetic | artificial; factory-made | 131 |
+| thrush | a songbird with a speckled breast | 113 |
+| transformation | a complete change of appearance | 130 |
+| unendurable | too terrible to stand | 132 |
+| vanquished | defeated | 104 |
+| virtuosity | brilliant technical skill | 113 |
+| wainscoting | wooden panelling along the lower wall | 132 |
+| wilful | done on purpose, against better sense | 129 |
