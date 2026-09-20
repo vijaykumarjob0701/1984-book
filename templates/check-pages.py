@@ -53,16 +53,16 @@ def main() -> int:
                     f"{name}: quoted phrase too long ({len(words)} words): {quote[:80]}"
                 )
 
-    expected = {f"page-{i:03d}.md" for i in range(1, 47)}
+    expected = {f"page-{i:03d}.md" for i in range(1, 66)}
     present = {p.name for p in files}
     missing = sorted(expected - present)
     extra_ok = present - expected
     if missing:
         errors.append("missing expected files: " + ", ".join(missing))
 
-    print(f"Checked {len(files)} page files (expected 001–046 present).")
+    print(f"Checked {len(files)} page files (expected 001–065 present).")
     if extra_ok:
-        print("Additional pages beyond 046:", ", ".join(sorted(extra_ok)))
+        print("Additional pages beyond 065:", ", ".join(sorted(extra_ok)))
     if errors:
         print("FAILED")
         for e in errors:

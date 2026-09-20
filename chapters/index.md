@@ -9,8 +9,8 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | Part One, Chapter 2 | 21–28 | [page-021](../pages/page-021.md) – [page-028](../pages/page-028.md) | Done |
 | Part One, Chapter 3 | 29–36 | [page-029](../pages/page-029.md) – [page-036](../pages/page-036.md) | Done |
 | Part One, Chapter 4 | 37–46 | [page-037](../pages/page-037.md) – [page-046](../pages/page-046.md) | Done |
-| Part One, Chapter 5 | 47–59 | page-047 – page-059 | Not started |
-| Part One, Chapter 6 | 60–65 | page-060 – page-065 | Not started |
+| Part One, Chapter 5 | 47–59 | [page-047](../pages/page-047.md) – [page-059](../pages/page-059.md) | Done |
+| Part One, Chapter 6 | 60–65 | [page-060](../pages/page-060.md) – [page-065](../pages/page-065.md) | Done |
 | Part One, Chapter 7 | 66–76 | page-066 – page-076 | Not started |
 | Part One, Chapter 8 | 77–96 | page-077 – page-096 | Not started |
 | Part Two, Chapter 1 | 97–107 | page-097 – page-107 | Not started |
@@ -41,6 +41,9 @@ Page numbers below are **this 284-page PDF**, including front matter. Other prin
 | 33–36 | Rewritten wars; doublethink defined; toe-touching on the telescreen |
 | 37–41 | Records Department, memory holes, rectifying *The Times* |
 | 42–46 | Prole entertainment; Comrade Withers becomes an unperson; invented Comrade Ogilvy |
+| 47–52 | Canteen with Syme; destroying words; duckspeak |
+| 53–59 | Parsons, Hate Week sub, chocolate "rise," facecrime |
+| 60–65 | Diary of a paid encounter; Katharine; desire as thoughtcrime |
 
 ## Part One, Chapter 1 at a glance
 

@@ -1,6 +1,6 @@
 # Glossary
 
-Hard words and Party terms from the completed pages (PDF 1–46). Meanings are plain-English teaching notes, not a substitute for a dictionary.
+Hard words and Party terms from the completed pages (PDF 1–65). Meanings are plain-English teaching notes, not a substitute for a dictionary.
 
 Page numbers point to the first study-guide page that treats the word in this edition.
 
@@ -27,6 +27,10 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | Two Minutes Hate | daily ritual of raging at Party enemies on screen | 12 |
 | unperson | someone erased so officially they never existed | 37 |
 | vaporized | arrested and wiped from records and memory | 20 |
+| artsem | Newspeak for conceiving children by artificial insemination | 62 |
+| duckspeak | to "quack" Party phrases — insult or praise, depending on who does it | 52 |
+| facecrime | an expression that reveals unofficial feeling | 59 |
+| Oldspeak | ordinary English, before Newspeak replaces it | 50 |
 
 ## Other difficult words
 
@@ -247,3 +251,46 @@ Page numbers point to the first study-guide page that treats the word in this ed
 | wretched | very unhappy or pitiable | 24 |
 | wrenched | pulled with sudden force | 16 |
 | zealot | a fanatic extreme in loyalty | 28 |
+| alluring | attractive in a tempting way | 61 |
+| aloofness | keeping a cool distance | 52 |
+| ancestral | inherited from earlier generations | 57 |
+| antonyms | words with opposite meanings | 49 |
+| aquiline | hooked, like an eagle's beak | 62 |
+| conditioning | training that shapes feelings from childhood | 64 |
+| debauchery | sex treated as crude indulgence | 61 |
+| derisive | mocking; scornful | 47 |
+| discretion | the sense to keep quiet and be careful | 52 |
+| eroticism | sexual desire and pleasure | 62 |
+| fornication | sex outside marriage | 61 |
+| fulminating | exploding in loud angry speech | 52 |
+| gabble | fast, hard-to-follow talk | 49 |
+| habitual | done so often it has become a habit | 60 |
+| hoarding | secretly storing things you may need later | 47 |
+| ill-omened | suggesting a bad end | 53 |
+| impregnable | impossible to break into | 64 |
+| incredulous | showing you do not believe it | 59 |
+| inextricably | so mixed you cannot separate the parts | 61 |
+| keenness | eager enthusiasm | 54 |
+| larynx | the voice-box in the throat | 52 |
+| lapse | a fall from a rule you usually keep | 61 |
+| lust | strong sexual desire | 64 |
+| obsolete | no longer used | 49 |
+| pannikin | a small metal bowl or cup | 48 |
+| philologist | someone who studies how language works | 47 |
+| predominated | were the majority | 57 |
+| proliferated | multiplied and spread | 57 |
+| promiscuity | sex with many partners | 61 |
+| protuberant | sticking out | 47 |
+| rigidity | stiffness | 63 |
+| saccharine | a chemical sweetener | 48 |
+| scarcity | not having enough | 57 |
+| scrounging | hunting around to get something you lack | 47 |
+| spasm | a sudden uncontrolled muscle jerk | 60 |
+| submitting | giving in without taking part | 63 |
+| synonyms | words with nearly the same meaning | 49 |
+| tacitly | without saying it openly | 61 |
+| temptation | a strong wish to do something unwise | 60 |
+| tic | a small repeated muscle twitch | 59 |
+| vapid | empty; without real feeling | 50 |
+| venerated | honoured as if sacred | 52 |
+| zeal | burning eagerness | 52 |
